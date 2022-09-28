@@ -1,0 +1,114 @@
+{
+    "root": {
+      "players": [
+        {
+          "year": 1952,
+          "firstname": "Khashaba Dadasaheb",
+          "lastname": "Jadhav",
+          "dob": "Jan 15, 1926",
+          "dod": "Aug 14, 1984",
+          "image": "",
+          "sport": "Wrestler",
+          "Medal": "Bronze",
+          "location": "Helsinki",
+          "content": "Despite having travelled to the Olympics once already and continuing to prove his mettle in India, KD Jadhav was initially not picked in the contingent for the Helsinki 1952 Olympics."
+        },
+        {
+          "year": 1952,
+          "firstname": "Kunwar Digvijai",
+          "lastname": "Singh",
+          "dob": "Feb 2 1922",
+          "dod": "Mar 27 1978",
+          "image": "",
+          "sport": "Hockey",
+          "Medal": "Gold",
+          "location": "Helsinki",
+          "content": "Singh received the Helms Trophy in 1953 for being the best hockey player in the world (1952) and the best sportsman of Asia (1953). This was the first time an Indian was awarded the Helms Trophy.\n            In 1958, he was awarded the prestigious Padmashri award by the Government of India.\n            The stadiums in Barabanki and Lucknow are named after him. The stadiums at Lucknow and Barabanki, both, are known as the \"K. D. Singh Babu Stadium\""
+        },
+        {
+          "year": 1956,
+          "firstname": "Udham Singh",
+          "lastname": "Kullar",
+          "dob": "Aug 4 1928",
+          "dod": "Mar 23 2000",
+          "image": "",
+          "sport": "Hockey",
+          "Medal": "Gold",
+          "location": "Melbourne",
+          "content": "He was named the Captain of the Indian Hockey Federation team that went to a Warsaw tour in 1955 and to East Africa in 1959. Udham also led the Indian squad to World Cup Hockey held at Lyons, France."
+        },
+        {
+          "year": 1960,
+          "firstname": "Udham Singh",
+          "lastname": "Kullar",
+          "dob": "Aug 4 1928",
+          "dod": "Mar 23 2000",
+          "image": "",
+          "sport": "Hockey",
+          "Medal": "Silver",
+          "location": "Rome",
+          "content": "He was named the Captain of the Indian Hockey Federation team that went to a Warsaw tour in 1955 and to East Africa in 1959. Udham also led the Indian squad to World Cup Hockey held at Lyons, France."
+        },
+        {
+          "year": 1964,
+          "firstname": "Udham Singh",
+          "lastname": "Kullar",
+          "dob": "Aug 4 1928",
+          "dod": "Mar 23 2000",
+          "image": "",
+          "sport": "Hockey",
+          "Medal": "Gold",
+          "location": "Tokyo",
+          "content": "He was named the Captain of the Indian Hockey Federation team that went to a Warsaw tour in 1955 and to East Africa in 1959. Udham also led the Indian squad to World Cup Hockey held at Lyons, France."
+        },
+        {
+          "year": 1968,
+          "firstname": "Gurbux",
+          "lastname": "Singh",
+          "dob": "Feb 11 1936",
+          "dod": "Alive",
+          "image": "",
+          "sport": "Hockey",
+          "Medal": "Bronze",
+          "location": "Mexico",
+          "content": "A skilled full-back player, Gurbux Singh made his international debut in a tour of Australia and New Zealand in 1960, and also participated in the International Hockey Tournament in 1962. By 1963 he was captain, and led the team that won the Gold at the 1966 Asian Games in Bangkok."
+        },
+        {
+          "year": 1996,
+          "firstname": "Leander",
+          "lastname": "Paes",
+          "dob": "June 17,1973",
+          "dod": "Active",
+          "image": "",
+          "sport": "Tennis",
+          "Medal": "Bronze",
+          "location": "Atlanta",
+          "content": "It was the first Individual medal since 1952"
+        },
+        {
+          "year": 2000,
+          "firstname": "Karnam",
+          "lastname": "Malleswari",
+          "dob": "June 1,1975",
+          "dod": "Active",
+          "image": "",
+          "sport": "Weightlifting",
+          "Medal": "Bronze",
+          "location": "Sydney",
+          "content": "She became the first Indian woman to win an Olympic medal."
+        },
+        {
+          "year": 2004,
+          "firstname": "Rajyavardhan Singh",
+          "lastname": "Rathore",
+          "dob": "Jan 29 ,1970",
+          "dod": "Active",
+          "image": "",
+          "sport": "Double trap shooting",
+          "Medal": "Silver",
+          "location": "Athens",
+          "content": "He won India's first ever individual silver at the Olympics."
+        }
+      ]
+    }
+  }

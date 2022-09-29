@@ -1,0 +1,26 @@
+.timelinear{
+    border: 2px solid grey;
+    height: 100%;
+    width: 100%;
+}
+
+.pointupdater{
+    border: 2px solid grey;
+    display: block;
+    margin : 92px;
+}
+
+.pointupdater ul{
+    height: 100px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+li{
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+}

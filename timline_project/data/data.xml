@@ -1,0 +1,127 @@
+<root>
+    <players>
+        <year>1952</year>
+        <firstname>Khashaba Dadasaheb</firstname>
+        <lastname>Jadhav</lastname>
+        <dob>Jan 15, 1926</dob>
+        <dod>Aug 14, 1984</dod>
+        <image>https://content.thisday.app/uploads/jadhav_f4b165b852.jpeg</image>
+        <sport>Wrestler </sport>
+        <Medal>Bronze</Medal>
+        <location>Helsinki</location>
+        <content>
+            Despite having travelled to the Olympics once already and continuing to prove his mettle in India, KD Jadhav was initially not picked in the contingent for the Helsinki 1952 Olympics.
+        </content>
+    </players>
+    <players>
+        <year>1952</year>
+        <firstname>Kunwar Digvijai</firstname>
+        <lastname>Singh</lastname>
+        <dob>Feb 2 1922</dob>
+        <dod>Mar 27 1978</dod>
+        <image>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmt_1Kik_40KXZbIldx7HgoQg5yUN_i7-L_wZoZEyVrxPYIYzdVVByXqwjxgCn5gKw1s&usqp=CAU</image>
+        <sport>Hockey </sport>
+        <Medal>Gold</Medal>
+        <location>Helsinki</location>
+        <content>
+            Singh received the Helms Trophy in 1953 for being the best hockey player in the world (1952) and the best sportsman of Asia (1953). This was the first time an Indian was awarded the Helms Trophy.
+            In 1958, he was awarded the prestigious Padmashri award by the Government of India.
+            The stadiums in Barabanki and Lucknow are named after him. The stadiums at Lucknow and Barabanki, both, are known as the "K. D. Singh Babu Stadium"
+        </content>
+    </players>
+    <players>
+        <year>1956</year>
+        <firstname>Udham Singh</firstname>
+        <lastname>Kullar</lastname>
+        <dob>Aug 4 1928 </dob>
+        <dod>Mar 23 2000</dod>
+        <image>https://content.thisday.app/uploads/EB_Gb_Pb_RVUAA_Ik0c_da835cbb3e.jpg</image>
+        <sport>Hockey</sport>
+        <Medal>Gold</Medal>
+        <location>Melbourne</location>
+        <content>
+            He was named the Captain of the Indian Hockey Federation team that went to a Warsaw tour in 1955 and to East Africa in 1959. Udham also led the Indian squad to World Cup Hockey held at Lyons, France.
+        </content>
+    </players>
+    <players>
+        <year>1960</year>
+        <firstname>Udham Singh</firstname>
+        <lastname>Kullar</lastname>
+        <dob>Aug 4 1928 </dob>
+        <dod>Mar 23 2000</dod>
+        <image>https://voices.shortpedia.com/wp-content/uploads/2021/05/balbir-singh-sr.jpg</image>
+        <sport>Hockey</sport>
+        <Medal>Silver</Medal>
+        <location>Rome</location>
+        <content>
+            He was named the Captain of the Indian Hockey Federation team that went to a Warsaw tour in 1955 and to East Africa in 1959. Udham also led the Indian squad to World Cup Hockey held at Lyons, France.
+        </content>
+    </players>
+    <players>
+        <year>1964</year>
+        <firstname>Udham Singh</firstname>
+        <lastname>Kullar</lastname>
+        <dob>Aug 4 1928 </dob>
+        <dod>Mar 23 2000</dod>
+        <image>data:image/jpeg;base64,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</image>
+        <sport>Hockey</sport>
+        <Medal>Gold</Medal>
+        <location>Tokyo</location>
+        <content>
+            He was named the Captain of the Indian Hockey Federation team that went to a Warsaw tour in 1955 and to East Africa in 1959. Udham also led the Indian squad to World Cup Hockey held at Lyons, France.
+        </content>
+    </players>
+    <players>
+        <year>1968</year>
+        <firstname>Gurbux</firstname>
+        <lastname>Singh</lastname>
+        <dob>Feb 11 1936 </dob>
+        <dod>Alive</dod>
+        <image>https://www.kreedon.com/wp-content/uploads/2018/05/gurbux-1.jpg</image>
+        <sport>Hockey</sport>
+        <Medal>Bronze</Medal>
+        <location>Mexico</location>
+        <content>
+            A skilled full-back player, Gurbux Singh made his international debut in a tour of Australia and New Zealand in 1960, and also participated in the International Hockey Tournament in 1962. By 1963 he was captain, and led the team that won the Gold at the 1966 Asian Games in Bangkok. 
+        </content>
+    </players>
+
+
+    <!-- mihir -->
+    <players>
+        <year> 1996 </year>
+        <firstname> Leander </firstname>
+        <lastname> Paes </lastname>
+        <dob>  June 17,1973 </dob>
+        <dod>  Active  </dod>
+        <image> https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Paes_US16_%2811%29_%2829569576630%29.jpg/330px-Paes_US16_%2811%29_%2829569576630%29.jpg </image>
+        <sport>  Tennis </sport>
+        <Medal>  Bronze </Medal>
+        <location> Atlanta </location>
+        <content> It was the first Individual medal since 1952  </content>
+    </players> 
+     <players>
+        <year> 2000</year>
+        <firstname> Karnam </firstname>
+        <lastname> Malleswari </lastname>
+        <dob> June 1,1975 </dob>
+        <dod> Active  </dod>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Karanam_malleshwari.png/330px-Karanam_malleshwari.png </image>
+        <sport> Weightlifting </sport>
+        <Medal>  Bronze </Medal>
+        <location> Sydney </location>
+        <content> She became the first Indian woman to win an Olympic medal. </content> 
+    </players>  
+     <players>
+        <year>2004</year>
+        <firstname>Rajyavardhan Singh  </firstname>
+        <lastname> Rathore </lastname>
+        <dob> Jan 29 ,1970 </dob>
+        <dod> Active </dod>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Minister_of_State_for_Youth_Affairs_and_Sports_%28IC%29_and_Information_%26_Broadcasting%2C_Col._Rajyavardhan_Singh_Rathore_addressing_after_felicitating_the_winners_of_the_World_Youth_Boxing_Championship_2017%2C_at_a_function_%28cropped%29.jpg/800px-thumbnail.jpg </image>
+        <sport> Double trap shooting  </sport>
+        <Medal>  Silver  </Medal>
+        <location> Athens  </location>
+        <content> He won India's first ever individual silver at the Olympics.</content> 
+    </players> 
+</root>
